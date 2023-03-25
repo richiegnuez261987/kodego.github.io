@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../converter"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "richieJS"
+	}
+}
